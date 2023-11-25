@@ -1,0 +1,21 @@
+div {
+  font-size: 1.07em;
+ }
+
+.flex-container {
+    display: flex;
+    gap: 10px;
+    flex-direction: row;
+  }
+
+.button {
+    height: 40px;
+    width: 200px;
+    font-size: 1.07em;
+}
+
+.text {
+  height: 40px;
+  width: 500px;
+  font-size: 1.07em;
+}
